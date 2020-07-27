@@ -1,14 +1,15 @@
-.max-viewport{
+.max-viewport {
     min-height: 100vh;
 }
 
-.text-underline{
+.text-underline {
     width: 100px;
     border: 1px solid #ffd282;
     margin: 0 auto;
 }
-.about-image{
-    background: url(/Bootstrap-web/images/thompson.jpg);
+
+.about-image {
+    background: url(../images/thompson.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
